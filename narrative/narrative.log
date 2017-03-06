@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2017.3.5)  6 MAR 2017 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2017.3.5)  6 MAR 2017 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -176,7 +176,12 @@ Overfull \hbox (36.78017pt too wide) in paragraph at lines 70--71
 [] 
  []
 
-[4 <./activedirectory.png>] [5 <./topology.png>] [6] (./narrative.aux) ) 
+[4 <./activedirectory.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 73--82
+
+ []
+
+[5 <./topology.png>] [6] [7] (./narrative.aux) ) 
 Here is how much of TeX's memory you used:
  1481 strings out of 493014
  20905 string characters out of 6139287
@@ -185,14 +190,14 @@ Here is how much of TeX's memory you used:
  6063 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,23p,235b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr17.pfb>
-Output written on narrative.pdf (6 pages, 226734 bytes).
+</usr/share/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
+pfb>
+Output written on narrative.pdf (7 pages, 228125 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
