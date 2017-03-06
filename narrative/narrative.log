@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2017.3.5)  5 MAR 2017 21:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2017.3.5)  6 MAR 2017 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -156,33 +156,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--40
 
  []
 
-[2] <topology.png, id=12, 1365.1pt x 730.73pt>
-File: topology.png Graphic file (type png)
- <use topology.png>
-Package pdftex.def Info: topology.png used on input line 69.
-(pdftex.def)             Requested size: 426.78017pt x 341.43614pt.
+[2] <activedirectory.png, id=12, 963.6pt x 602.25pt>
+File: activedirectory.png Graphic file (type png)
+ <use activedirectory.png>
+Package pdftex.def Info: activedirectory.png used on input line 66.
+(pdftex.def)             Requested size: 426.77895pt x 341.44815pt.
 
-Overfull \hbox (36.78017pt too wide) in paragraph at lines 69--70
+Overfull \hbox (36.77895pt too wide) in paragraph at lines 66--67
 [] 
  []
 
-[3] [4 <./topology.png>] [5] (./narrative.aux) ) 
+[3] <topology.png, id=17, 1365.1pt x 730.73pt>
+File: topology.png Graphic file (type png)
+ <use topology.png>
+Package pdftex.def Info: topology.png used on input line 70.
+(pdftex.def)             Requested size: 426.78017pt x 341.43614pt.
+
+Overfull \hbox (36.78017pt too wide) in paragraph at lines 70--71
+[] 
+ []
+
+[4 <./activedirectory.png>] [5 <./topology.png>] [6] (./narrative.aux) ) 
 Here is how much of TeX's memory you used:
- 1476 strings out of 493014
- 20791 string characters out of 6139287
+ 1481 strings out of 493014
+ 20905 string characters out of 6139287
  79546 words of memory out of 5000000
- 5034 multiletter control sequences out of 15000+600000
+ 5038 multiletter control sequences out of 15000+600000
  6063 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,23p,235b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
-pfb>
-Output written on narrative.pdf (5 pages, 141622 bytes).
+</usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb>
+Output written on narrative.pdf (6 pages, 226734 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
