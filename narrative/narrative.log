@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2017.3.5)  6 MAR 2017 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2017.3.5)  11 MAY 2017 09:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -166,13 +166,13 @@ Overfull \hbox (36.77895pt too wide) in paragraph at lines 66--67
 [] 
  []
 
-[3] <topology.png, id=17, 1365.1pt x 730.73pt>
+[3] <topology.png, id=17, 1445.4pt x 813.0375pt>
 File: topology.png Graphic file (type png)
  <use topology.png>
 Package pdftex.def Info: topology.png used on input line 70.
-(pdftex.def)             Requested size: 426.78017pt x 341.43614pt.
+(pdftex.def)             Requested size: 426.7863pt x 341.4238pt.
 
-Overfull \hbox (36.78017pt too wide) in paragraph at lines 70--71
+Overfull \hbox (36.7863pt too wide) in paragraph at lines 70--71
 [] 
  []
 
@@ -194,9 +194,9 @@ Here is how much of TeX's memory you used:
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
 pfb>
-Output written on narrative.pdf (7 pages, 228125 bytes).
+Output written on narrative.pdf (7 pages, 174444 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
